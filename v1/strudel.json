@@ -1,3 +1,6 @@
 {
-  
+  "_base": "https://raw.githubusercontent.com/todepond/samples/main/",
+  "berd": [
+    "berd/berd_1.wav"
+  ]
 }
