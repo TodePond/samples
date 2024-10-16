@@ -1,5 +1,7 @@
 {
   "_base": "https://raw.githubusercontent.com/todepond/samples/main/v4/",
   "berd": ["berd/berd.wav", "berd/berd2.wav", "berd/beg.wav"],
-  "asleep": ["asleep/asleep.wav", "asleep/asss.wav"]
+  "asleep": ["asleep/asleep.wav", "asleep/asss.wav"],
+  "cheep": ["cheep/ch1.wav", "cheep/ch2.wav"],
+  "nomusic": ["nomusic/nm1.wav", "nomusic/nm2.wav"]
 }
