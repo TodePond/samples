@@ -3,5 +3,9 @@
   "berd": [
     "berd/berd.wav",
     "berd/berd2.wav"
-  ]
+  ],
+  "asleep" [
+    "asleep/asleep.wav",
+    "asleep/asss.wav"
+  ],
 }
